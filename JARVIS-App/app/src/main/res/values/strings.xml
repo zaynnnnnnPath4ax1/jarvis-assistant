@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">
+        JARVIS ko poore phone par touchless tap/swipe/home/back control karne dega,
+        taaki hand gesture ya voice command se koi bhi app touch kiye bina chale.
+    </string>
+</resources>
